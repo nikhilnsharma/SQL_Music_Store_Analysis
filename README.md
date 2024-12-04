@@ -35,6 +35,7 @@ Playlist: Represents playlists created by customers.
 Columns: PlaylistId, Name
 PlaylistTrack: Links tracks to playlists.
 Columns: PlaylistId, TrackId
+
 🎯 Project Objectives
 
 Identify Popular Genres, Artists, and Albums: Analyze sales data to find top-performing music categories.
