@@ -3,6 +3,9 @@ SQL project to analyze online music store data
 
 🎵 Music Store Data Analysis Project using SQL
 
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
 📖 Project Description
 
 The Music Store Data Analysis Project is designed to analyze the data of a music store to gain insights into customer behavior, track sales trends, and optimize inventory. Using SQL, the project dives deep into a well-structured relational database containing information about customers, artists, tracks, invoices, and employees.
@@ -75,5 +78,4 @@ Provide Business Recommendations: Generate actionable insights for decision-maki
 * Postgre SQL
 * PgAdmin4
 
-Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
