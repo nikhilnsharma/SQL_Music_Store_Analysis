@@ -14,8 +14,11 @@ This analysis helps stakeholders make data-driven decisions to improve sales, en
 The database consists of the following key tables:
 
 Artist: Stores details of music artists.
+
 Columns: ArtistId, Name
+
 Album: Contains albums associated with artists.
+
 Columns: AlbumId, Title, ArtistId
 Track: Includes individual tracks with metadata like genre, media type, and pricing.
 Columns: TrackId, Name, AlbumId, MediaTypeId, GenreId, Composer, Milliseconds, Bytes, UnitPrice
